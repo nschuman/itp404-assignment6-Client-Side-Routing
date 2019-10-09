@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Surge Link:http://young-pet.surge.sh/animals/cats
+Surge Link:young-pet.surge.sh
 
 ## Available Scripts
 
